@@ -3,6 +3,7 @@ A batch move exporter for the the activity site movescount.com (for suunto devic
 
 1. Use a browser script loader like greasemonkey or tampermonkey to load the exporter script.
 2. Browse to http://movescount.com/summary
-3. Select the moves you want to export
-4. Hover over the `Tools` dropdown and select the export format you want to use
-5. Confirm the dialog box
+3. Choose `Multiple` from the menu below the calendar
+4. Select the moves you want to export
+5. Hover over the `Tools` dropdown in the menu below the calendar and select the export format you want to use
+6. Confirm the dialog box
