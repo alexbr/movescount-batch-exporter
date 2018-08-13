@@ -54,7 +54,7 @@ var formats = {
 };
 
 setInterval(function() {
-    var toolsItem = $('a[data-action="toggleShowPastPlannedMoves"]');
+    var toolsItem = $('a[data-action="addPlannedMove"]');
     console.warn(toolsItem);
     var sentinel = toolsItem.closest('ul').children('li.batchExporter');
     if (!sentinel || sentinel.length === 0) {
